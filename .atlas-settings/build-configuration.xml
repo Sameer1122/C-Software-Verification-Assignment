@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root v="20140314">
+	<entry cmd="gcc" sourceKind="C">
+		<path kind="RELATIVE" rawPath="Debug/../src/passcode.c"/>
+		<option kind="IGNORED" cmd="-O0"/>
+		<option kind="IGNORED" cmd="-Wall"/>
+		<option kind="STOP_BEFORE_LINKING" cmd="-c"/>
+		<option kind="UNHANDLED_ERROR" cmd="-fmessage-length=0"/>
+		<option kind="UNHANDLED_ERROR" cmd="-MMD"/>
+		<option kind="IGNORED_PREPROCESSOR" cmd="-MP"/>
+		<option kind="UNHANDLED_ERROR" cmd="-MF&quot;src/passcode.d&quot;"/>
+		<option kind="UNHANDLED_ERROR" cmd="-MT&quot;src/passcode.o&quot;"/>
+		<option kind="OBJECT" cmd="-o">
+			<path kind="RELATIVE" rawPath="Debug/src/passcode.o"/>
+		</option>
+	</entry>
+	<entry cmd="gcc" sourceKind="C">
+		<path kind="RELATIVE" rawPath="Debug/../src/magicdoor.c"/>
+		<option kind="IGNORED" cmd="-O0"/>
+		<option kind="IGNORED" cmd="-Wall"/>
+		<option kind="STOP_BEFORE_LINKING" cmd="-c"/>
+		<option kind="UNHANDLED_ERROR" cmd="-fmessage-length=0"/>
+		<option kind="UNHANDLED_ERROR" cmd="-MMD"/>
+		<option kind="IGNORED_PREPROCESSOR" cmd="-MP"/>
+		<option kind="UNHANDLED_ERROR" cmd="-MF&quot;src/magicdoor.d&quot;"/>
+		<option kind="UNHANDLED_ERROR" cmd="-MT&quot;src/magicdoor.o&quot;"/>
+		<option kind="OBJECT" cmd="-o">
+			<path kind="RELATIVE" rawPath="Debug/src/magicdoor.o"/>
+		</option>
+	</entry>
+</root>
